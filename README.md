@@ -1,5 +1,5 @@
 
-[l [MasterHead](https://share.google/S3oyVKuLteKA6T7hy)
+[l [MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_Ue4vXgxABJidFeUBarmbBVAT7tH9JeJ7RVdqMGI2iMEL4IozyyNKo9XFtwvmGOfURM&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Beyza ÖNDER</h1>
 <h3 align="center">İnformation Systems and Technologies student of Mehmet Akif Ersoy University.</h3>
