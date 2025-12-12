@@ -27,8 +27,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
----
-
-![Beyza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beyza-onder&show_icons=true&locale=en)
-![Beyza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=beyza-onder&show_icons=true&locale=en&layout=compact)
