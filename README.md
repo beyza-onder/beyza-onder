@@ -1,4 +1,4 @@
-<img src="backgraund.png" alt="Arka plan" width="500" height="300">
+<img src="https://github.com/beyza-onder/beyza-onder/blob/main/backgraund.png" alt="Banner"  width ="%100">
 <h1 align="center">Hi 👋, I'm Beyza ÖNDER</h1>
 <h3 align="center">İnformation Systems and Technologies student of Mehmet Akif Ersoy University.</h3>
 
